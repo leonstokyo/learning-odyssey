@@ -31,7 +31,7 @@ params:
   favicon: /img/favicon.ico
 
   footer:
-    since: 2021
+    since: 2024
     customText: The older I get, the more I realize that most of life is a matter of what we pay attention to, of what we attend to [with focus].
 
   dateFormat:
