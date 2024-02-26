@@ -40,7 +40,7 @@ params:
 
   sidebar:
     emoji: 🎨
-    subtitle: Palette gives you the ability, but you're the possibility.
+    subtitle: 出家如初 成佛有余
     avatar:
       enabled: true
       local: true
@@ -128,7 +128,7 @@ menu:
         icon: brand-twitter
     - identifier: note
       name: Note
-      url: https://note.azusachino.icu
+      url: https:w
       params:
         icon: link
 
