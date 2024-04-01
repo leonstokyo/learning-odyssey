@@ -58,11 +58,11 @@ params:
     enabled: true
     provider: giscus
     giscus:
-      repo: azusachino/idealistic-daydreamer
-      repoID: MDEwOlJlcG9zaXRvcnkzNTgxOTk2MjU=
-      category: General
-      categoryID: DIC_kwDOFVmxSc4CON34
-      mapping: title
+      repo: leonstokyo/learning-odyssey
+      repoID: R_kgDOLVAXZg
+      category: Announcements
+      categoryID: DIC_kwDOLVAXZs4CeXls
+      mapping: pathname
       reactionsEnabled: 1
       emitMetadata: 0
   widgets:

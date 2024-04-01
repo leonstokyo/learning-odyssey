@@ -1,0 +1,15 @@
+version: "3"
+
+tasks:
+  dev:
+    cmds:
+      - hugo server -D -d /tmp/hatsune
+  clean:
+    cmds:
+      - rm -rf ./resources
+  sync:
+    cmds:
+      - hugo -D -d /tmp/hatsune
+      - rsync -a -I --delete -e 'ssh -p 28196' /tmp/hatsune/ root@66.112.215.180:/usr/share/nginx/html
+      - rm -rf /tmp/hatsune
+      - rm -rf ./resources
