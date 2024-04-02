@@ -80,7 +80,7 @@ params:
   opengraph:
     twitter:
       # Your Twitter username
-      site: azusachino
+      site: leonstokyo
 
       # Available values: summary, summary_large_image
       card: summary_large_image
@@ -118,12 +118,12 @@ menu:
   social:
     - identifier: github
       name: GitHub
-      url: https://github.com/leonseki
+      url: https://github.com/leonstokyo
       params:
         icon: brand-github
     - identifier: twitter
       name: Twitter
-      url: https://twitter.com/LeonSeki
+      url: https://twitter.com/Leonstokyo
       params:
         icon: brand-twitter
     - identifier: note
